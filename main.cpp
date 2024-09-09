@@ -1,4 +1,3 @@
-g++ -fPIC -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -lQt5Widgets -lQt5Gui -lQt5Core main.cpp -o gui
 #include <QApplication>
 #include <QMainWindow>
 #include <QTabWidget>
